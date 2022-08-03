@@ -3,14 +3,14 @@
 </h1>
 
 
-## :sassy_man:  About me
+## :crystal_ball:  About me
 - :computer: I'm software engineer working in web development
-- :notebook: Learning `AI` and `ML` and trying to build fun projects with it
+- :label: Learning `AI & ML` and trying to build fun projects with it
 <br>
 
 <div align="center">
 
-![Bashar stats](https://github-readme-stats.vercel.app/api?username=bashar-alhaies&theme=aura&show_icons=true)
+![Bashar stats](https://github-readme-stats.vercel.app/api?username=bashar-alhaies&theme=midnight-purple&show_icons=true)
 </div>
 
 
