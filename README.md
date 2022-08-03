@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi. I'm Bashar Alhaies
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<!--
-**Bashar-Alhaies/Bashar-Alhaies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## :sassy_man:  About me
+- :computer: I'm software engineer working in web development
+- :notebook: Learning `AI` and `ML` and trying to build fun projects with it
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Bashar stats](https://github-readme-stats.vercel.app/api?username=bashar-alhaies&theme=aura&show_icons=true)
+</div>
+
+
