@@ -4,8 +4,7 @@
 
 
 ## :crystal_ball:  About me
-- :computer: I'm software engineer working in web development
-- :label: Learning `AI & ML` and trying to build fun projects with it
+- :computer: I'm software engineer that likes to work on web development and build projects with `AI & ML`
 <br>
 
 <div align="center">
