@@ -4,7 +4,7 @@
 
 
 ## :crystal_ball:  About me
-- :computer: I'm software engineer that likes to work on web development and build projects with `AI & ML`
+- :computer: I'm software engineer that likes to work on `fullstack web development` and build projects with `AI & ML`
 <br>
 
 <div align="center">
