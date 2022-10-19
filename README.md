@@ -18,9 +18,8 @@
     </li>
     <li>
       <a href="https://github.com/Bashar-Alhaies/url-shortner" target="_blank" rel="noreferrer">URL Shortner</a>   
-    <li>
+    </li>
   </ul>
-  
 </div>
 
 <div>
