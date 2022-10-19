@@ -12,9 +12,15 @@
 <div>
   <h1>:rocket: Recent Projects</h1>
   
-  - [Xpense](!https://github.com/Bashar-Alhaies/xpense)
-  - [URL Shortner](!https://github.com/Bashar-Alhaies/url-shortner)
-  <!-- - [Cyberpunk Image Downloader]() -->
+  <ul>
+    <li>
+      <a href="https://github.com/Bashar-Alhaies/xpense" target="_blank" rel="noreferrer">Xpense</a>
+    </li>
+    <li>
+      <a href="https://github.com/Bashar-Alhaies/url-shortner" target="_blank" rel="noreferrer">URL Shortner</a>   
+    <li>
+  </ul>
+  
 </div>
 
 <div>
