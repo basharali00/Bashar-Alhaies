@@ -5,7 +5,7 @@
 <div> 
   <h1>:crystal_ball: About me</h1>
 
-- :computer: I'm software engineer that likes to work on `Fullstack Web Development`
+- :computer: I'm software engineer working on `Fullstack Web Development`
 
 </div>
 
