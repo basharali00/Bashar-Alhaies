@@ -9,7 +9,7 @@
 
 </div>
 
-<div>
+<!-- <div>
   <h1>:rocket: Recent Projects</h1>
   
   <ul>
@@ -20,7 +20,7 @@
       <a href="https://github.com/Bashar-Alhaies/url-shortner" target="_blank" rel="noreferrer">URL Shortner</a>   
     </li>
   </ul>
-</div>
+</div> -->
 <!-- 
 <div>
 <h1>:pushpin: Stats</h1>
