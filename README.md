@@ -21,7 +21,7 @@
     </li>
   </ul>
 </div>
-
+<!-- 
 <div>
 <h1>:pushpin: Stats</h1>
 
@@ -36,7 +36,7 @@
 
 </div>
 
-<div>
+<div> -->
 
 <h1>:notebook_with_decorative_cover: Tech I Use</h1>
 <p>
